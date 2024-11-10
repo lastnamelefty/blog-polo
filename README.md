@@ -1,2 +1,1 @@
-# poloheysquierdo
 # blog-polo
