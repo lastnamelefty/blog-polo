@@ -33,18 +33,6 @@
                 href="https://lastnamelefty.io/categories/"
                 />
   </url><url>
-    <loc>https://lastnamelefty.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lastnamelefty.io/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lastnamelefty.io/series/"
-                />
-  </url><url>
     <loc>https://lastnamelefty.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
