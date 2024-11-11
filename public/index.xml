@@ -8,12 +8,22 @@
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 08 Nov 2024 20:16:17 -0500</lastBuildDate>
-    <atom:link href="https://lastnamelefty.github.io/polo/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lastnamelefty.github.io/polo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lastnamelefty.github.io/polo/about/</link>
+      <pubDate>Mon, 11 Nov 2024 15:04:09 -0500</pubDate>
+      <guid>https://lastnamelefty.github.io/polo/about/</guid>
+      <description>My name is Polo Heysquierdo and I am a CPhT.
+This is it, this is story I’ve been trying to share.
+I’ll skip the early parts and get to the meat of what most who read this care about. There are lots of dips, and a lot of steep rises.
+The dips were the low points obviously, but those were the times where I made big changes. Without those changes I don’t believe I would be where I am today.</description>
+    </item>
     <item>
       <title>First!</title>
-      <link>https://lastnamelefty.github.io/polo/public/posts/2024/11/first/</link>
+      <link>https://lastnamelefty.github.io/polo/posts/2024/11/first/</link>
       <pubDate>Fri, 08 Nov 2024 20:16:17 -0500</pubDate>
-      <guid>https://lastnamelefty.github.io/polo/public/posts/2024/11/first/</guid>
+      <guid>https://lastnamelefty.github.io/polo/posts/2024/11/first/</guid>
       <description>New site, new job, new beginnings!</description>
     </item>
   </channel>

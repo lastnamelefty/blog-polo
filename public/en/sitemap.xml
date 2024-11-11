@@ -2,47 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lastnamelefty.io/posts/2024/11/first/</loc>
+    <loc>https://lastnamelefty.github.io/polo/about/</loc>
+    <lastmod>2024-11-11T15:04:09-05:00</lastmod>
+  </url><url>
+    <loc>https://lastnamelefty.github.io/polo/posts/2024/11/first/</loc>
     <lastmod>2024-11-08T20:16:17-05:00</lastmod>
   </url><url>
-    <loc>https://lastnamelefty.io/</loc>
+    <loc>https://lastnamelefty.github.io/polo/</loc>
     <lastmod>2024-11-08T20:16:17-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lastnamelefty.io/fr/"
+                href="https://lastnamelefty.github.io/polo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lastnamelefty.io/"
+                href="https://lastnamelefty.github.io/polo/"
                 />
   </url><url>
-    <loc>https://lastnamelefty.io/posts/</loc>
+    <loc>https://lastnamelefty.github.io/polo/posts/</loc>
     <lastmod>2024-11-08T20:16:17-05:00</lastmod>
   </url><url>
-    <loc>https://lastnamelefty.io/categories/</loc>
+    <loc>https://lastnamelefty.github.io/polo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lastnamelefty.io/fr/categories/"
+                href="https://lastnamelefty.github.io/polo/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lastnamelefty.io/categories/"
+                href="https://lastnamelefty.github.io/polo/categories/"
                 />
   </url><url>
-    <loc>https://lastnamelefty.io/tags/</loc>
+    <loc>https://lastnamelefty.github.io/polo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lastnamelefty.io/fr/tags/"
+                href="https://lastnamelefty.github.io/polo/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lastnamelefty.io/tags/"
+                href="https://lastnamelefty.github.io/polo/tags/"
                 />
   </url>
 </urlset>
