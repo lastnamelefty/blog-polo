@@ -11,9 +11,9 @@
     <atom:link href="https://lastnamelefty.github.io/polo/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First!</title>
-      <link>https://lastnamelefty.github.io/polo/posts/2024/11/first/</link>
+      <link>https://lastnamelefty.github.io/polo/public/posts/2024/11/first/</link>
       <pubDate>Fri, 08 Nov 2024 20:16:17 -0500</pubDate>
-      <guid>https://lastnamelefty.github.io/polo/posts/2024/11/first/</guid>
+      <guid>https://lastnamelefty.github.io/polo/public/posts/2024/11/first/</guid>
       <description>New site, new job, new beginnings!</description>
     </item>
   </channel>
