@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polo, like the shirt.</title>
-    <link>https://lastnamelefty.io/</link>
+    <link>https://lastnamelefty.github.io/polo/</link>
     <description>Recent content on Polo, like the shirt.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 08 Nov 2024 20:16:17 -0500</lastBuildDate>
-    <atom:link href="https://lastnamelefty.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lastnamelefty.github.io/polo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First!</title>
-      <link>https://lastnamelefty.io/posts/2024/11/first/</link>
+      <link>https://lastnamelefty.github.io/polo/posts/2024/11/first/</link>
       <pubDate>Fri, 08 Nov 2024 20:16:17 -0500</pubDate>
-      <guid>https://lastnamelefty.io/posts/2024/11/first/</guid>
+      <guid>https://lastnamelefty.github.io/polo/posts/2024/11/first/</guid>
       <description>New site, new job, new beginnings!</description>
     </item>
   </channel>
